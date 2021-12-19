@@ -3,8 +3,15 @@
 body {
     font-size: 20px;
     font-family: 'Caveat', cursive; 
+    
 }
 
+.hike{
+    margin: auto;
+}
+table{
+    margin: auto;
+}
 .hike img{
     border-radius: 50px;
 }
